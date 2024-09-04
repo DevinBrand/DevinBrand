@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinbrand&label=Profile%20views&color=0e75b6&style=flat" alt="devinbrand" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devinbrand" alt="devinbrand" /></a> </p>
-
 - 🌱 I’m currently learning **Vue, Python, Ruby on Rails, React, Tailwinds**
 
 - 👨‍💻 All of my projects will be available at [onbrand.dev](onbrand.dev)
