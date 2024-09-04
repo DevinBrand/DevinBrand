@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinbrand&label=Profile%20views&color=0e75b6&style=flat" alt="devinbrand" /> </p>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 - 🌱 I’m currently learning **Vue, Python, Ruby on Rails, React, Tailwinds**
 
 - 👨‍💻 All of my projects will be available at [onbrand.dev](onbrand.dev)
