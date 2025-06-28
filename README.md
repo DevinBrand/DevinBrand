@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects will be available at [onbrand.dev](onbrand.dev)
 
-- 📝 I regularly write articles on mental health topics
-
 - 📫 How to reach me **brandleedevin97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
